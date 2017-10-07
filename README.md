@@ -68,7 +68,6 @@ npm start
 
 ### TODO:
 
-- Upgrade to react v16.
 - Add redux with support for i18n.
 - Add redux thunk.
 

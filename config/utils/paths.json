@@ -5,6 +5,7 @@
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/chunks",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/css",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/fonts",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/chunks",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/css",
@@ -30,6 +31,7 @@
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/About",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Modal",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Repos",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics",
@@ -53,6 +55,7 @@
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/About",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Home",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Modal",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/NotFound",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Repos",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Topics",
@@ -75,6 +78,7 @@
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/About",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Modal",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Repos",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics",
@@ -96,6 +100,9 @@
 					},
 					"css": {
 						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/css"
+					},
+					"fonts": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/fonts"
 					},
 					"gzip": {
 						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip",
@@ -170,6 +177,9 @@
 							"Home": {
 								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home"
 							},
+							"Modal": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Modal"
+							},
 							"NotFound": {
 								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound"
 							},
@@ -240,6 +250,9 @@
 						"Home": {
 							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Home"
 						},
+						"Modal": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Modal"
+						},
 						"NotFound": {
 							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/NotFound"
 						},
@@ -307,6 +320,9 @@
 						},
 						"Home": {
 							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home"
+						},
+						"Modal": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Modal"
 						},
 						"NotFound": {
 							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound"

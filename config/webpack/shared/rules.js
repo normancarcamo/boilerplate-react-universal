@@ -417,7 +417,7 @@ module.exports = function(SERVER, PRODUCTION) {
     },
     { // FONTS:
       test:/\.(eot|ttf|woff|woff2)(\?v=\d+\.\d+\.\d+)?$/,
-      use: fontLoader(SERVER, PRODUCTION, 'url-loader'),
+      use: fontLoader(SERVER, PRODUCTION, 'file-loader'),
     },
     { // IMAGES:
       test: /\.(jpe?g|jpg|png|gif|ico)$/i,

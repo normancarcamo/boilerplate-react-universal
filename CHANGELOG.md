@@ -1,5 +1,11 @@
 # Change log
 
+## v1.0.1 - Oct. 7, 2017
+
+**Upgrade to react v16.**
+
+---
+
 ## v1.0.0 - Oct. 6, 2017
 
 Initial release

@@ -39,6 +39,8 @@ const plugins = [
     filename:  getPath => getPath('css/[name].[contenthash].css'),
     allChunks: true
   }),
+  new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
+  // for more information: https://webpack.js.org/plugins/ignore-plugin/#ignore-moment-locales
   new PurifyCSSPlugin({
     styleExtensions: [ '.css' ],
     moduleExtensions: [ '.html' , '.css' ],
