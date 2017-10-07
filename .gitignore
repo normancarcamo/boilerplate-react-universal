@@ -6,6 +6,8 @@ npm-debug.log
 *.env
 *.dev
 .DS_Store
+yarn.lock
+package-lock.json
 build/
 src/server/index.js
 
