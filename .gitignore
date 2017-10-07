@@ -6,6 +6,8 @@ npm-debug.log
 *.env
 *.dev
 .DS_Store
+build/
+src/server/index.js
 
 # Docker
 Dockerfile
