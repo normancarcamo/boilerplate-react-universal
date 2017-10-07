@@ -1,6 +1,42 @@
 {
 	"collection": [
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/chunks",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/css",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/chunks",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/css",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/icons",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/manifest",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/icons",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/manifest",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/source-maps",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/source-maps/9.chunks",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/svg",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/stylus",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/vendor",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/fontawesome",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ionic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/various",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/img",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/js",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/About",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Repos",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics/Topic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server/router",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/shared",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/node_modules",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src",
 		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client",
@@ -51,6 +87,114 @@
 	"tree": {
 		"cwd": {
 			"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal",
+			"build": {
+				"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build",
+				"public": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public",
+					"chunks": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/chunks"
+					},
+					"css": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/css"
+					},
+					"gzip": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip",
+						"chunks": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/chunks"
+						},
+						"css": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/css"
+						},
+						"icons": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/icons"
+						},
+						"manifest": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/gzip/manifest"
+						}
+					},
+					"icons": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/icons"
+					},
+					"manifest": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/manifest"
+					},
+					"source-maps": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/source-maps",
+						"9.chunks": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/source-maps/9.chunks"
+						}
+					},
+					"svg": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public/svg"
+					}
+				},
+				"src": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src",
+					"client": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client",
+						"assets": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets",
+							"css": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css",
+								"stylus": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/stylus"
+								},
+								"vendor": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/vendor"
+								}
+							},
+							"fonts": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts",
+								"fontawesome": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/fontawesome"
+								},
+								"ionic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ionic"
+								},
+								"various": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/various"
+								}
+							},
+							"img": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/img"
+							},
+							"js": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/js"
+							}
+						},
+						"components": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components",
+							"About": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/About"
+							},
+							"Home": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home"
+							},
+							"NotFound": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound"
+							},
+							"Repos": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Repos"
+							},
+							"Topics": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics",
+								"Topic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics/Topic"
+								}
+							}
+						}
+					},
+					"server": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server",
+						"router": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server/router"
+						}
+					},
+					"shared": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/shared"
+					}
+				}
+			},
 			"node_modules": {
 				"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/node_modules"
 			},
