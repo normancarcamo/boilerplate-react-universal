@@ -2,6 +2,9 @@
   "name": "boilerplate-react-universal",
   "version": "1.0.0",
   "license": "LICENSE",
+  "engines": {
+    "node": "8.6.0"
+  },
   "scripts": {
     "clean:build:public": "rimraf ./build/public",
     "clean:build:src": "rimraf ./build/src",
