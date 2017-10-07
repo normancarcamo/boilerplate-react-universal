@@ -1,0 +1,313 @@
+{
+	"collection": [
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/node_modules",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/css",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/css/stylus",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/css/vendor",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/bootstrap",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/fontawesome",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/ionic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/bold",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/bolditalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/extrabold",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/extrabolditalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/italic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/light",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/lightitalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/regular",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/semibold",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/semibolditalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/ubuntu",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/ubuntuFont",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/various",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/img",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/js",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/About",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Home",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/NotFound",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Repos",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Topics",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Topics/Topic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Welcome",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/server",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/server/router",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/shared",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/stylus",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/vendor",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/bootstrap",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/fontawesome",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ionic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/bold",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/bolditalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/extrabold",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/extrabolditalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/italic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/light",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/lightitalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/regular",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/semibold",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/semibolditalic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ubuntu",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ubuntuFont",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/various",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/img",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/js",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/About",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Repos",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics/Topic",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Welcome",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server/router",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/shared",
+		"/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/public"
+	],
+	"tree": {
+		"cwd": {
+			"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal",
+			"node_modules": {
+				"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/node_modules"
+			},
+			"src": {
+				"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src",
+				"client": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client",
+					"assets": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets",
+						"css": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/css",
+							"stylus": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/css/stylus"
+							},
+							"vendor": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/css/vendor"
+							}
+						},
+						"fonts": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts",
+							"bootstrap": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/bootstrap"
+							},
+							"fontawesome": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/fontawesome"
+							},
+							"ionic": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/ionic"
+							},
+							"openSans": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans",
+								"bold": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/bold"
+								},
+								"bolditalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/bolditalic"
+								},
+								"extrabold": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/extrabold"
+								},
+								"extrabolditalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/extrabolditalic"
+								},
+								"italic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/italic"
+								},
+								"light": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/light"
+								},
+								"lightitalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/lightitalic"
+								},
+								"regular": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/regular"
+								},
+								"semibold": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/semibold"
+								},
+								"semibolditalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/openSans/semibolditalic"
+								}
+							},
+							"ubuntu": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/ubuntu"
+							},
+							"ubuntuFont": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/ubuntuFont"
+							},
+							"various": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/fonts/various"
+							}
+						},
+						"img": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/img"
+						},
+						"js": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/assets/js"
+						}
+					},
+					"components": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components",
+						"About": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/About"
+						},
+						"Home": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Home"
+						},
+						"NotFound": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/NotFound"
+						},
+						"Repos": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Repos"
+						},
+						"Topics": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Topics",
+							"Topic": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Topics/Topic"
+							}
+						},
+						"Welcome": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/client/components/Welcome"
+						}
+					}
+				},
+				"server": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/server",
+					"router": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/server/router"
+					}
+				},
+				"shared": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/src/shared"
+				}
+			}
+		},
+		"build": {
+			"src": {
+				"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src",
+				"client": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client",
+					"assets": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets",
+						"css": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css",
+							"stylus": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/stylus"
+							},
+							"vendor": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/css/vendor"
+							}
+						},
+						"fonts": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts",
+							"bootstrap": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/bootstrap"
+							},
+							"fontawesome": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/fontawesome"
+							},
+							"ionic": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ionic"
+							},
+							"openSans": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans",
+								"bold": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/bold"
+								},
+								"bolditalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/bolditalic"
+								},
+								"extrabold": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/extrabold"
+								},
+								"extrabolditalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/extrabolditalic"
+								},
+								"italic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/italic"
+								},
+								"light": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/light"
+								},
+								"lightitalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/lightitalic"
+								},
+								"regular": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/regular"
+								},
+								"semibold": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/semibold"
+								},
+								"semibolditalic": {
+									"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/openSans/semibolditalic"
+								}
+							},
+							"ubuntu": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ubuntu"
+							},
+							"ubuntuFont": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/ubuntuFont"
+							},
+							"various": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/fonts/various"
+							}
+						},
+						"img": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/img"
+						},
+						"js": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/assets/js"
+						}
+					},
+					"components": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components",
+						"About": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/About"
+						},
+						"Home": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Home"
+						},
+						"NotFound": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/NotFound"
+						},
+						"Repos": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Repos"
+						},
+						"Topics": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics",
+							"Topic": {
+								"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Topics/Topic"
+							}
+						},
+						"Welcome": {
+							"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/client/components/Welcome"
+						}
+					}
+				},
+				"server": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server",
+					"router": {
+						"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/server/router"
+					}
+				},
+				"shared": {
+					"_": "/Users/norman/Projects/2017/jul/github/personal/boilerplate-react-universal/build/src/shared"
+				}
+			}
+		}
+	}
+}

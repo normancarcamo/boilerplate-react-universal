@@ -1,0 +1,1 @@
+In this directory you will find the rules, and some other bits used in the configuration of webpack, due that these are commonly files shared by the server and the client, they were put it here as an accesible point to use them.

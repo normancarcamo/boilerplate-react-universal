@@ -1,0 +1,1 @@
+This directory includes the code to make the process work in the frontend, within it you can find the configuration of the webpackDevServer, the proxy configuration (if you want to set your own), the port, the output assets etc.

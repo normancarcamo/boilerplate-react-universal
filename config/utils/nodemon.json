@@ -1,0 +1,23 @@
+{
+  "execMap": {
+    "js": "node_modules/.bin/babel-node"
+  },
+  "script": "src/server/index.js",
+  "restartable": "rs",
+  "verbose": true,
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "watch": [
+    "foo/"
+  ],
+  "ignore": [
+    "*"
+  ],
+  "ext": "pppp",
+  "stdin": true,
+  "stdout": true,
+  "quiet": true,
+  "runOnChangeOnly": false,
+  "colours": true
+}

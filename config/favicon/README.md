@@ -1,0 +1,2 @@
+In this directory you can put your own favicons, webpack will take it and will generate all the favicons during the compilation process to use them in production.
+[Read more about: favicons-webpack-plugin](https://github.com/jantimon/favicons-webpack-plugin)

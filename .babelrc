@@ -1,0 +1,35 @@
+{
+  "compact": false,
+  "presets": [
+    ["env", {
+      "targets": {
+        "node": "current"
+      }
+    }],
+    "react",
+    "flow",
+    "stage-2"
+  ],
+  "plugins": [
+    "transform-async-to-generator",
+    [
+      "transform-runtime",
+      {
+        "helpers": true,
+        "polyfill": true,
+        "regenerator": true,
+        "moduleName": "babel-runtime"
+      }
+    ],
+    [
+      "transform-regenerator",
+      {
+        "asyncGenerators": true,
+        "generators": true,
+        "async": true
+      }
+    ],
+    "dynamic-import-webpack",
+    "transform-class-properties"
+  ]
+}

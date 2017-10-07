@@ -1,0 +1,54 @@
+// Variables:
+$_ = {}
+$_['placeholder'] = "::-webkit-input-placeholder" ":-moz-placeholder" "::-moz-placeholder" ":-ms-input-placeholder"
+
+usefontSmoothing = @block {
+  -webkit-font-smoothing antialiased // none | antialiased | subpixel-antialiased;
+  -moz-osx-font-smoothing grayscale  // auto | inherit | unset | grayscale;
+  font-smoothing antialiased         // API reference: http://ss64.com/css/font-smoothing.html
+  text-shadow 1px 1px 1px rgba(0,0,0,0.004)
+}
+
+applyBGColor($color)
+  background-color $color
+
+// Mixins:
+setFont($family, $size, $weight, $color, $align, $transform, $letterspace, $wordspace, $lineheight, $overflow, $smoothing = false)
+  font-family $family     // font | initial | inherit;
+  font-size $size       // medium | xx-small | x-small | small | large | x-large | xx-large | smaller | larger | length | initial | inherit;
+  font-weight $weight     // normal | bold | bolder | lighter | number | initial | inherit;
+  color $color        // color | initial | inherit;
+  text-align $align       // left | right | center | justify | initial | inherit;
+  text-transform $transform   // none | capitalize | uppercase | lowercase | initial | inherit;
+  letter-spacing $letterspace // normal | length | initial | inherit;
+  word-spacing $wordspace     // normal | length | initial | inherit;
+  line-height $lineheight     // normal | number | length  | initial | inherit;
+  text-overflow $overflow   // clip | ellipsis | string  | initial | inherit;
+  if $smoothing
+    {usefontSmoothing}
+
+customizePlaceholder($fontSize, $fontWeight ,$fontColor, $textAlign, $textTransform)
+  for placeholder in $_.placeholder
+    input[type="text"]{placeholder}
+    input[type="email"]{placeholder}
+    input[type="password"]{placeholder}
+      setFont(openSans, $fontSize, $fontWeight, $fontColor, $textAlign, $textTransform, normal, normal, 1.2rem, ellipsis, true)
+
+.inputStyle
+  background-color #fff
+  border .1rem solid #E6EDE6
+  border-radius .1rem
+  border-color #d2dae3
+  box-sizing border-box
+  display block
+  height 2.4rem
+  width 100%
+  outline transparent none 0
+  padding 0 1rem
+  setFont(openSans, .8em, 400, #656461, left, uppercase, normal, normal, normal, clip, true)
+  &:focus
+  &:active
+    border-radius 0
+    box-shadow 0 -.1rem 0 #6254B2 inset
+    outline 0
+    transition all .1s ease-out .1s

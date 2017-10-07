@@ -1,0 +1,1 @@
+This directory holds the configuration of the plugins that the webpack config client uses.

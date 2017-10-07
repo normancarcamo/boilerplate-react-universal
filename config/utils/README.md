@@ -1,0 +1,1 @@
+This directory includes assets for the compilation process and for the cli interface, if you know what they do feel free to edit them.

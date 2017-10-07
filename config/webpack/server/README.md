@@ -1,0 +1,1 @@
+The purpose of this directory is enable the server side rendering configuration, it uses almost the same configuration of the client config, but with a bits of differences.
