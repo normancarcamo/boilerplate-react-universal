@@ -68,9 +68,6 @@ npm start
 <br>
 **Easy, just follow the instruccions.**
 
-**Note:** If you don't want the cli for production you can use the command "build" and it will compile your project, it will create a new directory in the cwd called "build" that directory will include the code ready for production.
-
-
 ### Example:
 
 [Try it on Heroku!](https://immense-anchorage-89133.herokuapp.com/)
