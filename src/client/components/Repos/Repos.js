@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import styles from './styles.styl';
 import { Route, Link } from 'react-router-dom'
 import { loadData } from './actions.js'
-import { isNull, arrayHasValues } from 'shared/methods'
+import { isNull, arrayHasValues } from 'assets/js/helpers'
 import img from 'assets/img/loader.gif';
 import { fa, ion } from 'assets/js/iconfont'
 

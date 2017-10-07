@@ -32,3 +32,27 @@ export function disableLogHMR() {
     }
   }
 }
+
+export function arrayHasValues(array) {
+  let contains = false
+
+  if (array) {
+    if (isArray(array)) {
+      if (array.length) {
+        contains = true
+      } else {
+        contains = false
+      }
+    } else {
+      contains = false
+    }
+  } else {
+    contains = false
+  }
+
+  return contains
+}
+
+export function isNull(x) {
+  return !!(x === null)
+}
