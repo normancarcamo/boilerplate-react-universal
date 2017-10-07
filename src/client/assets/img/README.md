@@ -1,0 +1,1 @@
+In this directory you could add all your images and because we are using the "import" syntax of ES6 you could import them with easy.

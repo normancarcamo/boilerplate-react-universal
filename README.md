@@ -66,6 +66,12 @@ npm start
 
 [Try it on Heroku!](https://immense-anchorage-89133.herokuapp.com/)
 
+### TODO:
+
+- Upgrade to react v16.
+- Add redux with support for i18n.
+- Add redux thunk.
+
 ---
 
 ### Contributors

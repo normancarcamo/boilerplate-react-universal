@@ -1,0 +1,3 @@
+In this directory you could add your styles, they can be in ".scss", ".less", ".styl", ".css" etc...
+
+The "entry.styl" file is just an example and it could be useful to know how to do the same thing with other pre-processors.

@@ -4,7 +4,6 @@ import About      from 'components/About';
 import Topics     from 'components/Topics';
 import Topic      from 'components/Topics/Topic';
 import NotFound   from 'components/NotFound';
-import Welcome    from 'components/Welcome';
 import * as Repos from 'components/Repos'
 
 const routes = [

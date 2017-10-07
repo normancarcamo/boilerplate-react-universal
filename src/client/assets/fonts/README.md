@@ -1,0 +1,1 @@
+In this directory you could add your fonts but remember that if you will add many fonts the script size will be incremented due that it's using the "url-loader" and it's added to the bundle, my recommendation is that you use a CDN to avoid increase the size of the bundle or do some adjusts to the loader in the webpack config to solve it :)

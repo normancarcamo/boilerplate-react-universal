@@ -1,0 +1,1 @@
+In this directory you could add your custom mixins and styles for your project, because I'm using stylus instead of plain css you could use Sass/Less instead to do the same thing or if you know how to deal with these assets then don't worry to make the corresponding changes :)
