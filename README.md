@@ -6,7 +6,7 @@ Boilerplate to start new projects using the react stack libraries.
 
 ## Motivation
 
-We know that there are many boilerplates out there and of course that is another one, but some of them don't tell us how they were built and how the things were configured under the hood or are messy.<br>
+We know that there are many boilerplates out there and of course that this is another one, but some of them don't tell us how they were built and how the things were configured under the hood or are messy.<br>
 Couples of times we used to start new projects including many libraries and there are some of them that in occasions we forget their names or how we configured them in the past.<br>
 The main idea is having this repository with all the necessary things to start a new project without having to remember all the libraries and how they were configured.
 
@@ -27,7 +27,7 @@ It can be used for Server Side Rendering, also only client usage using the webpa
 
 - React.js
 - React Router V4
-- React-Hot-Module
+- React-Hot-Loader-3
 - CSS Modules
 - Webpack
 - WebpackDevServer
