@@ -5,12 +5,6 @@
 Boilerplate to start new projects using the react stack libraries.
 [Try it on Heroku!](https://immense-anchorage-89133.herokuapp.com/)
 
-## Motivation
-
-We know that there are many boilerplates out there and of course that this is another one, but some of them don't tell us how they were built and how the things were configured under the hood or are messy.<br>
-Couples of times we used to start new projects including many libraries and there are some of them that in occasions we forget their names or how we configured them in the past.<br>
-The main idea is having this repository with all the necessary things to start a new project without having to remember all the libraries and how they were configured.
-
 ### What are the benefits?
 
 - Focus on the things that really matter.
