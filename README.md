@@ -1,6 +1,6 @@
 # boilerplate-react-universal
 
-**Version 1.0.0** - [Change log](CHANGELOG.md)
+**Version 1.0.1** - [Change log](CHANGELOG.md)
 
 Boilerplate to start new projects using the react stack libraries.
 [Try it on Heroku!](https://immense-anchorage-89133.herokuapp.com/)

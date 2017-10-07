@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-react-universal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "LICENSE",
   "engines": {
     "node": "8.6.0"
